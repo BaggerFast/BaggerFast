@@ -12,12 +12,15 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<details>
-  <summary>:zap: <b>GitHub stats</b></summary>
+[<h2>🖥 My projects</h2>](markdown/main.md)
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
-   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
    <br>
-   <img align="middle" src="https://metrics.lecoq.io/baggerfast" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
+   <br>
+   <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
 </details>
