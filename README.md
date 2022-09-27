@@ -12,8 +12,8 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-[<h2>🖥 My projects</h2>](markdown/main.md)
-
+[<h2>🖥My projects</h2>](markdown/main.md)
+[<h2>📋My it manuals</h2>](https://github.com/BaggerFast/ItManuals)
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
