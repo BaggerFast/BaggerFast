@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-<img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-[<h2>🖥My projects</h2>](markdown/main.md)
-[<h2>📋My it manuals](https://github.com/BaggerFast/ItManuals)
+## [🖥My projects](markdown/main.md)  
+## [📋My it manuals](https://github.com/BaggerFast/ItManuals)
+
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
