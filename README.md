@@ -14,6 +14,7 @@
 
 ## [🖥My projects](markdown/main.md)  
 ## [📋My it manuals](https://github.com/BaggerFast/ItManuals)
+## [📀My .DotFiles](https://github.com/BaggerFast/.DotFiles)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
