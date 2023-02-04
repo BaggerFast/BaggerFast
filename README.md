@@ -1,6 +1,6 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙱𝚊𝚐𝚐𝚎𝚛𝙵𝚊𝚜𝚝</h1>
 
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Backend Developer</h3>
 <p align="center">
  <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
  <a href="https://tlgg.ru/BaggerFast"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
@@ -12,8 +12,10 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## [🖥My projects](markdown/main.md)  
-## [📋My it manuals](https://github.com/BaggerFast/ItManuals)
+## [🖥 Projects](markdown/main.md)
+## [😈 Git Gists](https://gist.github.com/BaggerFast)
+## [📋 Dev manuals](https://github.com/BaggerFast/ItManuals)
+## [📀 .DotFiles](https://github.com/BaggerFast/.DotFiles)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
