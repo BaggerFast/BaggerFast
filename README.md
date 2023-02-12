@@ -12,10 +12,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## [🖥 Projects](markdown/main.md)
+## [🖥 Projects](markdown/my_projects/main.md)
 ## [😈 Git Gists](https://gist.github.com/BaggerFast)
 ## [📋 Dev manuals](https://github.com/BaggerFast/ItManuals)
 ## [📀 .DotFiles](https://github.com/BaggerFast/.DotFiles)
+## [🔓 OpenSource Soft](markdown/open_soft/main.md)
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
