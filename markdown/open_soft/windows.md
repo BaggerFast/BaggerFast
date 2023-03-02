@@ -1,4 +1,5 @@
 # Windows
+  - [ShareX](https://github.com/ShareX/ShareX)
   - [SuperF4](https://github.com/stefansundin/superf4)
   - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
   - [Terminal](https://github.com/microsoft/terminal)
