@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BaggerFast",
   description: "Personal page",
+  base: '/BaggerFast',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
